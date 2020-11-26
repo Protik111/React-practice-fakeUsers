@@ -1,0 +1,8 @@
+.personSalary{
+    position:absolute;
+    top: 20px;
+    right: 210px;
+    border : 2px solid gray;
+    height: 270px;
+    width: 300px;
+}
